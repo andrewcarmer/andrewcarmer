@@ -1,10 +1,11 @@
-### Connect with me:
+<img align="center" alt="banner" src="https://github.com/abindeth-cybersec/images/blob/main/Facebook_Banner.png" />
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.1.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.1.0/icons/twitter.svg" />][twitter]
 
 <br />
 
-## Hi There!
+Hey There!,
+
 I'm Andrew aka Abindeth. I'm currently a Senior ISSO at Raytheon who loves to tinker and break into things. I am very passionate about improving my cyber security skillset from offense to defense.
 
 # Current Projects
