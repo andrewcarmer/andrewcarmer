@@ -22,10 +22,7 @@ I'm Andrew aka Abindeth. I'm currently a Senior ISSO at Raytheon who loves to ti
 <img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.1.0/icons/java.svg" />
 <img align="left" alt="c++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.1.0/icons/cplusplus.svg" />
 <img align="left" alt="splunk" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.1.0/icons/splunk.svg" />
-<img align="left" alt="nmap" width="26px" src="https://github.com/abindeth-cybersec/images/blob/main/nmap.jpg" />
-<img align="left" alt="tenable" width="26px" src="https://github.com/abindeth-cybersec/images/blob/main/tenable.png" />
 
-<br />
 <br />
 
 [linkedin]: https://linkedin.com/in/andrew-carmer
