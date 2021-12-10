@@ -14,14 +14,14 @@
 <br />
 
 ### Language and Tools:
-[<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.1.0/icons/python.svg" />][Python]
-[<img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.1.0/icons/java.svg" />][Java]
-C++
+[<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.1.0/icons/python.svg" />]
+[<img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.1.0/icons/java.svg" />]
+[<img align="left" alt="c++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.1.0/icons/cplusplus.svg" />]
+[<img align="left" alt="splunk" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.1.0/icons/splunk.svg" />]
 nmap
 SCAP/STIG
 Tenable
 Nessus
-Splunk
 
 <br />
 <br />
