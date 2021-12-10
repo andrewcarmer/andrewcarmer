@@ -14,8 +14,8 @@
 <br />
 
 ### Language and Tools:
-[<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.1.0/icons/python.svg" />]
-Java
+[<img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.1.0/icons/python.svg" />][Python]
+[<img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.1.0/icons/java.svg" />][Java]
 C++
 nmap
 SCAP/STIG
@@ -26,7 +26,7 @@ Splunk
 <br />
 <br />
 
-[linkedin]: https://linkedin.com/in/abindeth
+[linkedin]: https://linkedin.com/in/andrew-carmer
 [twitter]: https://twitter.com/abindeth
 
 <!---
