@@ -14,6 +14,7 @@
 <br />
 
 ### Language and Tools:
+![tools](https://cdn.jsdeliver.net/npm/simple-icons@6.1.0/icons/python.svg)
 <img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.1.0/icons/python.svg" />
 <img align="left" alt="java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.1.0/icons/java.svg" />
 <img align="left" alt="c++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.1.0/icons/cplusplus.svg" />
@@ -25,6 +26,10 @@ Nessus
 
 <br />
 <br />
+img[alt=tools] {
+    width=26px;
+    align=left;
+}
 
 [linkedin]: https://linkedin.com/in/andrew-carmer
 [twitter]: https://twitter.com/abindeth
