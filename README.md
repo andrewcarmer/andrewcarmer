@@ -9,7 +9,7 @@
 
 Hey There! 👋
 
-I'm Andrew aka Abindeth. I'm currently a Senior ISSO at Raytheon who loves to tinker and break into things. I am very passionate about improving my cyber security skillset to become the best Security Engineer that I possibly can be.
+I'm Andrew. I'm currently an Application Security Engineer at Alteryx who loves to tinker and break into things. I am very passionate about improving my cyber security skillset to become the best Security Engineer that I possibly can be.
 
 ## Current Projects
 - I'm currently working on advancing my python scripting skills
